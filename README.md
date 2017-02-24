@@ -9,6 +9,7 @@ lab 2: RBF networks
 * RBF placement (competitive learning; expectation maximization)
 
 lab 3: self-organizing maps
+* data clustering
 
 lab 4: Hopfield networks 
 * Hebbian learning
