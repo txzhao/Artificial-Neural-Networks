@@ -5,8 +5,8 @@ lab 1: feedforward networks
 * two-layer-perceptron network
 
 lab 2: RBF networks
-* supervise
-** le
+* supervised learning of weights (batch learning with least square; online learning with elta rule)
+*
 
 lab 3: self-organizing maps
 
