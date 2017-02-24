@@ -5,6 +5,8 @@ lab 1: feedforward networks
 * two-layer-perceptron network
 
 lab 2: RBF networks
+* supervise
+** le
 
 lab 3: self-organizing maps
 
