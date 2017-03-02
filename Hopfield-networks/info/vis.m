@@ -1,2 +1,2 @@
 function vis(x)
-imagesc(reshape(x,32,32));
+imagesc(reshape(x, 32, 32));
