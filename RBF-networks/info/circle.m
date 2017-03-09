@@ -1,4 +1,4 @@
-function H=circle(center,radius,NOP,style)
+function H = circle(center, radius, NOP, style)
 %---------------------------------------------------------------------------------------------
 % H=CIRCLE(CENTER,RADIUS,NOP,STYLE)
 % This routine draws a circle with center defined as
@@ -18,15 +18,15 @@ function H=circle(center,radius,NOP,style)
 %   December, 2002
 %---------------------------------------------------------------------------------------------
 
-if (nargin <3),
+if (nargin < 3),
  error('Please see help for INPUT DATA.');
-elseif (nargin==3)
-    style='b-';
+elseif (nargin == 3)
+    style = 'b-';
 end;
-THETA=linspace(0,2*pi,NOP);
-RHO=ones(1,NOP)*radius;
-[X,Y] = pol2cart(THETA,RHO);
-X=X+center(1);
-Y=Y+center(2);
-H=plot(X,Y,style);
+THETA = linspace(0, 2*pi, NOP);
+RHO = ones(1, NOP)*radius;
+[X, Y] = pol2cart(THETA, RHO);
+X = X + center(1);
+Y = Y + center(2);
+H = plot(X, Y, style);
 axis square;
