@@ -5,7 +5,7 @@ function [m, var] = fixrbf1(units, dmin, dmax)
 % was one more than specified by units.
 dist = ((dmax - dmin)/(units - 1));
 %m is a column vector with positions (for several dimension => more columns)
-m=(dmin : dist : dmax)';
+m = (dmin : dist : dmax)';
 % m = m(2 : size(m,1)-1, :);
 % Let them also have the same standard deviation
 sdev = m*0 + 0.5*dist;
