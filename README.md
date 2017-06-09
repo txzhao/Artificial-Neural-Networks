@@ -1,4 +1,4 @@
-# ArtificialNeuralNetworks
+# Artificial-Neural-Networks
 
 lab 1: feedforward networks
 * one-layer-perceptron network
