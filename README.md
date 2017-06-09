@@ -8,7 +8,7 @@ lab 2: RBF networks [[slide]](https://github.com/txzhao/Artificial-Neural-Networ
 * supervised learning of weights (batch learning with least square; online learning with delta rule)
 * RBF placement (competitive learning; expectation maximization)
 
-lab 3: self-organizing maps [[slide]](https://github.com/txzhao/Artificial-Neural-Networks/blob/master/FeedForwardNetworks/ann-lab1.pdf)
+lab 3: self-organizing maps [[slide]](https://github.com/txzhao/Artificial-Neural-Networks/blob/master/Self-organizing-maps/som.pdf)
 * data clustering
 
 lab 4: Hopfield networks [[slide]](https://github.com/txzhao/Artificial-Neural-Networks/blob/master/FeedForwardNetworks/ann-lab1.pdf)
