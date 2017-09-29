@@ -1,5 +1,8 @@
 # Artificial-Neural-Networks
 
+Course lab of [DD2432 Artifical Neural Network and Other Learning Systems](https://www.kth.se/social/course/DD2432/) at KTH.
+
+## Contents
 lab 1: feedforward networks [[slide]](https://github.com/txzhao/Artificial-Neural-Networks/blob/master/FeedForwardNetworks/ann-lab1.pdf)
 * one-layer-perceptron network
 * two-layer-perceptron network
